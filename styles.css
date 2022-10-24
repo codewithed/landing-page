@@ -18,12 +18,12 @@ header {
 
 .hero {
     background-color: #1f2937;
-    padding-top: 110px;
+    padding-top: 120px;
     display: flex;
     gap: 30px;
     padding-left: 15%;
     padding-right: 15%;
-    padding-bottom: 110px;
+    padding-bottom: 120px;
 }
 
 .hero-img {
@@ -64,7 +64,6 @@ header {
 .hero-main {
     min-width: 50%;
     max-height: 100%;
-    padding-bottom: 40px;
 }
 
 .hero-button {
