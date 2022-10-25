@@ -51,6 +51,7 @@ header {
 }
 
 .hero-text {
+    padding-top: 10px;
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
@@ -58,6 +59,7 @@ header {
 
 .hero-secondary, .nav-links a {
     font-size: 18px;
+    font-weight: 300;
     color: #e5e7eb;
 }
 
@@ -84,7 +86,10 @@ header {
 }
 
 .info {
-    padding: 40px;
+    padding-top: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 120px;
 }
 
 .info-header, .signup-head {
@@ -185,4 +190,11 @@ header {
     font-weight: lighter;
     color: #e5e7eb;
     font-size: 19px;
+}
+
+.copyright {
+    text-align: center;
+    padding: 30px;
+    color: #e5e7eb;
+    background-color: #1f2937;
 }
